@@ -1,3 +1,3 @@
 #!/bin/bash
-cp speedtest /bin/
+sudo cp speedtest /bin/
 echo "Done!!"
