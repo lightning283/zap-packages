@@ -4,7 +4,7 @@ sleep 1
 #########################################################################
 if [[ -d /usr/ ]]
 then
-sudo cp ~/zap/packages/lolcat/lolcat /bin/
+sudo lolcat /bin/
 sudo chmod +x /bin/lolcat
 fi
 ##########################################################################
