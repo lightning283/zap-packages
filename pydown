@@ -1,0 +1,9 @@
+#!/bin/bash
+if [[ -d "/usr/" ]]
+then
+cd ~/zap/packages/pydown/ && ./pydown.py
+fi
+if [[ -d "/system/" ]]
+then
+cd /system/zap/packages/pydown/ && ./pydown.py
+fi
