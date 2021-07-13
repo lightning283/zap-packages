@@ -3,7 +3,7 @@ then
 echo "Removing File From /bin"
 sudo rm -rf /bin/lolcat
 echo "Removing Downloaded Package"
-rm -rf ~/zap/packages/lolcat
+rm -rf ../lolcat
 echo "Removed Succesfully"
 fi
 ################################################################
