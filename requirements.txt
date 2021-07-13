@@ -1,0 +1,4 @@
+wget
+pytube
+tkinter
+pillow
