@@ -1,11 +1,19 @@
 # Available Packges
-origin/HEAD -> origin/main
-origin/android-support
-origin/linux-pydown
-origin/lolcat -->  A python written , standalone lolcat clone by tehmaze..
-origin/main
-origin/md-files
-origin/needed-apks
-origin/speedtest-cli
-origin/update
-origin/win-pydown
+
+# Linux
+/linux-vbox-modules
+/linux-pyqt5-make-browser
+/linux-chaotic-aur
+/linux-firefox-ssl
+/linux-gallium-hud
+/linux-glibc-fix
+/linux-pydown
+/linux-speedtest-cli
+
+# Cross-Platform
+/lolcat -->  A python written , standalone lolcat clone by tehmaze..
+
+# Android
+/android-cleanmaster
+/android-luckypatcher
+/android-gamegaurdian
