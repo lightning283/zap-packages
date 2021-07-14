@@ -1,0 +1,1 @@
+pm install cm.apk
