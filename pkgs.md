@@ -9,6 +9,7 @@
 /linux-glibc-fix
 /linux-pydown
 /linux-speedtest-cli
+/linux-gallium-hud
 
 # Cross-Platform
 /lolcat -->  A python written , standalone lolcat clone by tehmaze..
