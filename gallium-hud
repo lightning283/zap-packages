@@ -1,0 +1,9 @@
+#!/bin/bash
+
+GALLIUM_HUD=GPU-load+cpu+fps glxgears
+GALLIUM_HUD=help glxgears
+
+export GALLIUM_HUD_VISIBLE false
+export GALLIUM_HUD_TOGGLE_SIGNAL 10
+export GALLIUM_HUD GPU-load+cpu+fps
+export GALLIUM_HUD_PERIOD 0.1
