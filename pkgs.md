@@ -17,3 +17,4 @@
 /android-cleanmaster
 /android-luckypatcher
 /android-gamegaurdian
+/android-gltools
